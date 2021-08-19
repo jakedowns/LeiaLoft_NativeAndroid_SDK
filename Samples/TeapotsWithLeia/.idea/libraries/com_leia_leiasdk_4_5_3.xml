@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.leia:leiasdk-4.5.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/leiasdk-4.5.3.aar/da5a319640f3b216d7b015796c798834/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/leiasdk-4.5.3.aar/da5a319640f3b216d7b015796c798834/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.leia/leiasdk/4.5.3/59dacd69676960e88a0861b0b258e2cdd1a33997/leiasdk-4.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

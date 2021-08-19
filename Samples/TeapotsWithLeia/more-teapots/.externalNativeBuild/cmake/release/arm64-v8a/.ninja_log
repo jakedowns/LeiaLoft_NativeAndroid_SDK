@@ -1,0 +1,18 @@
+# ninja log v5
+4	236	0	ndk_helper/CMakeFiles/ndk-helper.dir/gl3stub.cpp.o	cf0fa9b5cde9fc4d
+6	314	0	CMakeFiles/native_app_glue.dir/L_/Android/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	3e3bebe2ae002bfa
+13	688	0	ndk_helper/CMakeFiles/ndk-helper.dir/perfMonitor.cpp.o	19c29999716c3439
+315	700	0	libnative_app_glue.a	b4531f1229a46c37
+10	715	0	ndk_helper/CMakeFiles/ndk-helper.dir/sensorManager.cpp.o	75982d2e7872d403
+1	798	0	ndk_helper/CMakeFiles/ndk-helper.dir/vecmath.cpp.o	c85e48a5a9d326a8
+16	817	0	ndk_helper/CMakeFiles/ndk-helper.dir/GLContext.cpp.o	be632bdb73df642e
+3	881	0	ndk_helper/CMakeFiles/ndk-helper.dir/gestureDetector.cpp.o	fd544c300774761
+237	939	0	ndk_helper/CMakeFiles/ndk-helper.dir/interpolator.cpp.o	478b1711c20052f3
+8	986	0	ndk_helper/CMakeFiles/ndk-helper.dir/tapCamera.cpp.o	59481b4a75eb754e
+14	1051	0	ndk_helper/CMakeFiles/ndk-helper.dir/shader.cpp.o	68979a2863b467a9
+11	1394	0	ndk_helper/CMakeFiles/ndk-helper.dir/JNIHelper.cpp.o	85f8d093ccd3eb9b
+1394	1455	0	ndk_helper/libndk-helper.a	96ee7cdd89148435
+1458	2536	0	CMakeFiles/MoreTeapotsNativeActivity.dir/LeiaJNIDisplayParameters.cpp.o	d80832b5b04d5143
+1457	2545	0	CMakeFiles/MoreTeapotsNativeActivity.dir/MoreTeapotsNativeActivity.cpp.o	3b40bcf8c1a71540
+1456	2552	0	CMakeFiles/MoreTeapotsNativeActivity.dir/MoreTeapotsRenderer.cpp.o	d911d5f97aae7b55
+2552	2777	0	L:/desktop/leia/github/TeapotsWithLeia/more-teapots/build/intermediates/cmake/release/obj/arm64-v8a/libMoreTeapotsNativeActivity.so	b5c98bdaf707437a

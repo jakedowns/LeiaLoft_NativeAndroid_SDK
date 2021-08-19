@@ -1,0 +1,57 @@
+
+{
+	"buildFiles" : [ "L:/desktop/leia/github/JNISample/app/src/main/cpp/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\JNISample\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-activity-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-activity",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\JNISample\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target native-activity",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -Dnative_activity_EXPORTS -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -Wall -Werror -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/JNISample/app/src/main/cpp/main.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "L:/desktop/leia/github/JNISample/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-activity.so",
+			"toolchain" : "1062305101"
+		},
+		"native_app_glue-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native_app_glue",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\JNISample\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target native_app_glue",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info       -c ",
+					"src" : "L:/Android/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/armeabi-v7a/libnative_app_glue.a",
+			"toolchain" : "1062305101"
+		}
+	},
+	"toolchains" : 
+	{
+		"1062305101" : 
+		{
+			"cCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

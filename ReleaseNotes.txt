@@ -1,0 +1,20 @@
+Release 000.000.005
+	- NOT BACKWARD COMPATIBLE - This new library changes memory layouts, so projects updating should recompile their code 
+	- Update library to allow for more application managed rendering, with documentation
+
+Release 000.000.004
+	- Update the documentation to include more description for how the GL pipeline changes when using Leia enable devices
+
+Release 000.000.003
+	- Update the library to disable depth inside the leiaDOF, leiaViewInterlace, and leiaViewSharpening
+	- Minor code cleanup
+	- Include armeabi-v7a libraries
+	
+
+Release 000.000.002
+	- Fix a bug which caused quads being rendered in the LeiaNativeSDK to not appear
+	- Updated documentation to be more verbose and clear
+	- Added ReleaseNotes.txt for visibility to updates
+
+Release 000.000.001
+	Initial Release For LeiaNativeSDK

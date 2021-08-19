@@ -1,0 +1,153 @@
+
+{
+	"buildFiles" : 
+	[
+		"L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/src/main/cpp/CMakeLists.txt",
+		"L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"TeapotNativeActivity-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "TeapotNativeActivity",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\.externalNativeBuild\\cmake\\release\\x86 --target TeapotNativeActivity",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -DTeapotNativeActivity_EXPORTS -IL:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\leia_sdk\\include -IL:\\Android\\ndk-bundle\\sources\\android\\cpufeatures -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -IL:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\src\\main\\cpp\\..\\..\\..\\..\\common\\ndk_helper -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/src/main/cpp/LeiaJNIDisplayParameters.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -DTeapotNativeActivity_EXPORTS -IL:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\leia_sdk\\include -IL:\\Android\\ndk-bundle\\sources\\android\\cpufeatures -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -IL:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\src\\main\\cpp\\..\\..\\..\\..\\common\\ndk_helper -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/src/main/cpp/TeapotNativeActivity.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -DTeapotNativeActivity_EXPORTS -IL:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\leia_sdk\\include -IL:\\Android\\ndk-bundle\\sources\\android\\cpufeatures -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -IL:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\src\\main\\cpp\\..\\..\\..\\..\\common\\ndk_helper -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/src/main/cpp/TeapotRenderer.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/build/intermediates/cmake/release/obj/x86/libTeapotNativeActivity.so",
+			"toolchain" : "1062305101"
+		},
+		"lib_leia_sdk-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "lib_leia_sdk",
+			"buildType" : "release",
+			"output" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/src/main/cpp/../../../../distribution/leia_sdk/lib/x86/libleiasdk.so",
+			"toolchain" : "1062305101"
+		},
+		"native_app_glue-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native_app_glue",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\.externalNativeBuild\\cmake\\release\\x86 --target native_app_glue",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "L:/Android/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86/libnative_app_glue.a",
+			"toolchain" : "1062305101"
+		},
+		"ndk-helper-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "ndk-helper",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\releases\\TeapotsWithLeia\\classic-teapot\\.externalNativeBuild\\cmake\\release\\x86 --target ndk-helper",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/gestureDetector.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/gl3stub.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/GLContext.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/interpolator.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/JNIHelper.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/perfMonitor.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/sensorManager.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/shader.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/tapCamera.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/releases/TeapotsWithLeia/common/ndk_helper/vecmath.cpp",
+					"workingDirectory" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "L:/desktop/leia/releases/TeapotsWithLeia/classic-teapot/.externalNativeBuild/cmake/release/x86/ndk_helper/libndk-helper.a",
+			"toolchain" : "1062305101"
+		}
+	},
+	"toolchains" : 
+	{
+		"1062305101" : 
+		{
+			"cCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

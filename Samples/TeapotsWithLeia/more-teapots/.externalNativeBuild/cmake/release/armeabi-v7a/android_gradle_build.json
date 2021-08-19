@@ -1,0 +1,153 @@
+
+{
+	"buildFiles" : 
+	[
+		"L:/desktop/leia/github/TeapotsWithLeia/more-teapots/src/main/cpp/CMakeLists.txt",
+		"L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MoreTeapotsNativeActivity-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "MoreTeapotsNativeActivity",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target MoreTeapotsNativeActivity",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -DMoreTeapotsNativeActivity_EXPORTS -IL:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\leia_sdk\\include -IL:\\Android\\ndk-bundle\\sources\\android\\cpufeatures -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -IL:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\src\\main\\cpp\\..\\..\\..\\..\\common\\ndk_helper -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/src/main/cpp/LeiaJNIDisplayParameters.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -DMoreTeapotsNativeActivity_EXPORTS -IL:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\leia_sdk\\include -IL:\\Android\\ndk-bundle\\sources\\android\\cpufeatures -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -IL:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\src\\main\\cpp\\..\\..\\..\\..\\common\\ndk_helper -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/src/main/cpp/MoreTeapotsNativeActivity.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -DMoreTeapotsNativeActivity_EXPORTS -IL:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\leia_sdk\\include -IL:\\Android\\ndk-bundle\\sources\\android\\cpufeatures -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -IL:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\src\\main\\cpp\\..\\..\\..\\..\\common\\ndk_helper -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/src/main/cpp/MoreTeapotsRenderer.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/build/intermediates/cmake/release/obj/armeabi-v7a/libMoreTeapotsNativeActivity.so",
+			"toolchain" : "1062305101"
+		},
+		"lib_leia_sdk-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "lib_leia_sdk",
+			"buildType" : "release",
+			"output" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/src/main/cpp/../../../../distribution/leia_sdk/lib/armeabi-v7a/libleiasdk.so",
+			"toolchain" : "1062305101"
+		},
+		"native_app_glue-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native_app_glue",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target native_app_glue",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "L:/Android/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a/libnative_app_glue.a",
+			"toolchain" : "1062305101"
+		},
+		"ndk-helper-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "ndk-helper",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\TeapotsWithLeia\\more-teapots\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target ndk-helper",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/gestureDetector.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/gl3stub.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/GLContext.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/interpolator.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/JNIHelper.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/perfMonitor.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/sensorManager.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/shader.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/tapCamera.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=L:/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem L:\\Android\\ndk-bundle\\sources\\android\\support\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem L:/Android/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -stdlib=libc++ -O2 -std=gnu++11 -Wall -fno-exceptions -fno-rtti -std=gnu++11 -Wall -fno-exceptions -fno-rtti -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/TeapotsWithLeia/common/ndk_helper/vecmath.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/release/armeabi-v7a/ndk_helper/libndk-helper.a",
+			"toolchain" : "1062305101"
+		}
+	},
+	"toolchains" : 
+	{
+		"1062305101" : 
+		{
+			"cCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

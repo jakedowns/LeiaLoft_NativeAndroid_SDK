@@ -1,0 +1,7 @@
+L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/native_app_glue.dir
+L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/MoreTeapotsNativeActivity.dir
+L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/debug/armeabi-v7a/ndk_helper/CMakeFiles/ndk-helper.dir
+L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/debug/armeabi-v7a/ndk_helper/CMakeFiles/edit_cache.dir
+L:/desktop/leia/github/TeapotsWithLeia/more-teapots/.externalNativeBuild/cmake/debug/armeabi-v7a/ndk_helper/CMakeFiles/rebuild_cache.dir

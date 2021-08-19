@@ -1,0 +1,934 @@
+--------- beginning of main
+04-09 21:18:08.925  1692  1861 W WifiConfigManager: Looking up network with invalid networkId -1
+04-09 21:18:08.929 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:09.785 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-20 identical 299 lines
+04-09 21:18:09.797 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:09.802   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:09.802 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:09.802   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:09.802   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:09.802   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:09.802   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:09.803  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:09.803  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:09.803   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:09.803   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:09.807 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:10.213 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-20 identical 142 lines
+04-09 21:18:10.215 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:10.215  1692  1726 I zygote64: Explicit concurrent copying GC freed 50475(8MB) AllocSpace objects, 19(636KB) LOS objects, 42% free, 16MB/28MB, paused 64us total 115.471ms
+04-09 21:18:10.216 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:10.765 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-20 identical 196 lines
+04-09 21:18:10.767 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:10.768  3091  3091 I WearableService: Wearable Services stopping
+04-09 21:18:10.770 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:10.860 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-20 identical 32 lines
+04-09 21:18:10.860 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:10.862   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:10.862   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:10.862   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:10.862   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:10.863   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:10.863  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:10.864  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:10.863   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:10.864   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:10.867 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:11.913 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-20 identical 376 lines
+04-09 21:18:11.913 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:11.920   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:11.920   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:11.920   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:11.920   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:11.920 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:11.921   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:11.921  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:11.921  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:11.922   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:11.923   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:11.923 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:12.974 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-20 identical 371 lines
+04-09 21:18:12.977 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:12.978   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:12.979   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:12.979   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:12.979   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:12.979   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:12.980 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:12.980  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:12.980  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:12.980   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:12.981   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:12.982 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:14.033 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-22 identical 379 lines
+04-09 21:18:14.033 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:14.036   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:14.037   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:14.037   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:14.037   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:14.038   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:14.040  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:14.041  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:14.041   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:14.041   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:14.046 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:15.088 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-23 identical 376 lines
+04-09 21:18:15.089 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:15.094   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:15.094   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:15.094   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:15.094   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:15.094   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:15.095  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:15.095  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:15.095   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:15.095   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:15.097 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:16.149 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-24 identical 370 lines
+04-09 21:18:16.149 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:16.153   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:16.153   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:16.153   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:16.153   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:16.153   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:16.153  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:16.153  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:16.154   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:16.154   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:16.157 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:17.203 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-25 identical 367 lines
+04-09 21:18:17.209 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:17.211   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:17.211   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:17.211   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:17.211   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:17.211 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:17.211   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:17.212 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:17.212 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:17.212  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:17.212  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:17.212   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:17.212   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:17.215 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:18.270 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-26 identical 376 lines
+04-09 21:18:18.270 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:18.270   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:18.270   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:18.270   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:18.270   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:18.271   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:18.272  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:18.272  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:18.273   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:18.273   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:18.279 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:19.325 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-27 identical 370 lines
+04-09 21:18:19.325 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:19.328   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:19.329   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:19.329   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:19.329   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:19.329   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:19.330  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:19.330  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:19.330   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:19.331   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:19.334 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:20.382 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-28 identical 370 lines
+04-09 21:18:20.382 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:20.387   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:20.387   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:20.387   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:20.387 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:20.387   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:20.387   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:20.387  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:20.387  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:20.388   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:20.388   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:20.389 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:21.444 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-29 identical 363 lines
+04-09 21:18:21.444 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:21.445   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:21.445   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:21.445   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:21.445   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:21.446   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:21.446  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:21.446  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:21.446   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:21.446   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:21.455 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:22.495 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-30 identical 365 lines
+04-09 21:18:22.503 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:22.504   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:22.504   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:22.504   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:22.504   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:22.505   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:22.505 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:22.505  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:22.506  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:22.506   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:22.506   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:22.507 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:23.555 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-31 identical 365 lines
+04-09 21:18:23.559 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:23.563   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:23.563   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:23.563   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:23.563   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:23.563   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:23.563  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:23.563  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:23.563   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:23.563   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:23.564 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:24.614 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-32 identical 380 lines
+04-09 21:18:24.621 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:24.622   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:24.623   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:24.623   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:24.623   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:24.623   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:24.624 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:24.624  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:24.624  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:24.625   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:24.625   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:24.627 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:25.673 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-33 identical 368 lines
+04-09 21:18:25.673 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:25.679   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:25.679   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:25.679   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:25.679   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:25.680   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:25.680  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:25.680  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:25.680   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:25.680   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:25.681 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:26.734 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-34 identical 379 lines
+04-09 21:18:26.737 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:26.737   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:26.737   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:26.738   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:26.738   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:26.738   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:26.739  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:26.739  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:26.740   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:26.740   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:26.740 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:27.793 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-35 identical 367 lines
+04-09 21:18:27.794 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:27.798   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:27.798   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:27.798   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:27.799   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:27.799   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:27.800  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:27.800  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:27.800   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:27.800   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:27.800 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:28.840 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-36 identical 364 lines
+04-09 21:18:28.840 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:28.854   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:28.855   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:28.855   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:28.855   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:28.856   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:28.856  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:28.856  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:28.857 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:28.857   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:28.857   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:28.860 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:29.911 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-37 identical 369 lines
+04-09 21:18:29.912 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:29.912   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:29.912   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:29.913   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:29.913   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:29.913   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:29.913  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:29.913  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:29.913   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:29.913   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:29.919 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:30.968 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-38 identical 378 lines
+04-09 21:18:30.970 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:30.971   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:30.971   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:30.971   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:30.971   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:30.971   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:30.971  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:30.972  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:30.972   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:30.972   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:30.973 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.021 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-40 identical 368 lines
+04-09 21:18:32.021 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.029   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:32.029   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:32.029   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:32.029   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:32.029   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:32.030  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:32.030   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:32.030   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:32.030  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:32.034 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.422 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-40 identical 138 lines
+04-09 21:18:32.425 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.427  2695  2695 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+04-09 21:18:32.427 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.428  2514  2514 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+04-09 21:18:32.430 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.431 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-40 identical 1 line
+04-09 21:18:32.431 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.433  2514  2514 D KeyguardUpdateMonitor: handleBatteryUpdate
+04-09 21:18:32.435 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.444 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-40 identical 4 lines
+04-09 21:18:32.444 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.448  2514  2514 W SignalClusterView: apply: mImsVisible = false
+04-09 21:18:32.449  2514  2514 I chatty  : uid=1000(system) com.android.systemui identical 2 lines
+04-09 21:18:32.449  2514  2514 W SignalClusterView: apply: mImsVisible = false
+04-09 21:18:32.451 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.486 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-40 identical 12 lines
+04-09 21:18:32.489 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.490   834  3506 I LocSvc_libulp: ulp_msg_process_system_update: systemEvent:5 
+04-09 21:18:32.491   834  3506 I LocSvc_libulp: ulp_msg_process_start_req, at ulp state = 1
+04-09 21:18:32.491   834  2619 I LocSvc_api_v02: ---> locClientSendReq line 2102 QMI_LOC_GET_BEST_AVAILABLE_POSITION_REQ_V02
+04-09 21:18:32.492 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.494   834  2625 I LocSvc_ApiV02: <--- globalRespCb line 141 QMI_LOC_GET_BEST_AVAILABLE_POSITION_REQ_V02
+04-09 21:18:32.495 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.495 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-40 identical 1 line
+04-09 21:18:32.495 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:32.495   834  3506 I LocSvc_libulp: ulp_brain_process_zpp_position_report, report ZPP position to providers,report_position = 1
+04-09 21:18:32.495   834  2619 E IzatSvc_PassiveLocListener: Exiting with error onLocationChanged line 152 "1"
+04-09 21:18:32.506 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:33.079 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-41 identical 208 lines
+04-09 21:18:33.079 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:33.087   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:33.087   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:33.087   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:33.088   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:33.088   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:33.089  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:33.089  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:33.089   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:33.089   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:33.091 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:34.143 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-42 identical 358 lines
+04-09 21:18:34.143 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:34.145   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:34.145   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:34.145   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:34.145   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:34.145   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:34.145  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:34.145  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:34.146   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:34.146   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:34.150 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:35.200 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-43 identical 372 lines
+04-09 21:18:35.203 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:35.203   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:35.203   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:35.204   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:35.204   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:35.204   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:35.205  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:35.205  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:35.205   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:35.205   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:35.206 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:36.262 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-44 identical 379 lines
+04-09 21:18:36.262 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:36.262   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:36.262 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:36.263   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:36.263   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:36.263   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:36.263   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:36.264  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:36.264  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:36.265   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:36.265   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:36.272 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:37.316 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-45 identical 361 lines
+04-09 21:18:37.319 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:37.319   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:37.319   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:37.320   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:37.320   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:37.320   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:37.321   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:37.321   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:37.322 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:37.322 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-45 identical 1 line
+04-09 21:18:37.322 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:37.323  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:37.323  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:37.327 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:38.369 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-46 identical 358 lines
+04-09 21:18:38.369 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:38.378   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:38.378   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:38.378   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:38.378   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:38.379   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:38.379  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:38.380  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:38.380 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:38.380   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:38.380   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:38.382 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:38.722 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-46 identical 117 lines
+04-09 21:18:38.722 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:38.724  1692  2628 D CompatibilityInfo: mCompatibilityFlags - 10
+04-09 21:18:38.724  1692  2628 D CompatibilityInfo: applicationDensity - 560
+04-09 21:18:38.724  1692  2628 D CompatibilityInfo: applicationScale - 1.0
+04-09 21:18:38.731 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:39.050 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-47 identical 114 lines
+04-09 21:18:39.053 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:39.055  4022  4090 I PlayCommon: [61] com.google.android.play.b.h.e(263): Preparing logs for uploading
+04-09 21:18:39.055  4022  4090 I PlayCommon: [61] com.google.android.play.b.h.e(267): No file ready to send
+04-09 21:18:39.056 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:39.426 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-47 identical 135 lines
+04-09 21:18:39.434 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:39.436   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:39.436   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:39.437   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:39.437 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:39.437   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:39.437   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:39.438  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:39.438  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:39.438   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:39.439   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:39.439 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:40.492 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-48 identical 372 lines
+04-09 21:18:40.495 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:40.495   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:40.495 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:40.495   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:40.495 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:40.495   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:40.495   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:40.496   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:40.496  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:40.497  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:40.497   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:40.497   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:40.506 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.543 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-49 identical 365 lines
+04-09 21:18:41.552 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.553   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:41.553   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:41.553   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:41.553   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:41.553   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:41.554   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:41.554  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:41.555 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.555   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:41.555  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:41.557 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.966 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-49 identical 146 lines
+04-09 21:18:41.966 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.967  4022  4047 I PlayCommon: [29] com.google.android.play.b.h.e(263): Preparing logs for uploading
+04-09 21:18:41.975 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.976  1692  2628 D CompatibilityInfo: mCompatibilityFlags - 10
+04-09 21:18:41.976  1692  2628 D CompatibilityInfo: applicationDensity - 560
+04-09 21:18:41.976  1692  2628 D CompatibilityInfo: applicationScale - 1.0
+04-09 21:18:41.978 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.984 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-49 identical 3 lines
+04-09 21:18:41.984 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:41.987  1692  9312 D CompatibilityInfo: mCompatibilityFlags - 10
+04-09 21:18:41.987  1692  9312 D CompatibilityInfo: applicationDensity - 560
+04-09 21:18:41.987  1692  9312 D CompatibilityInfo: applicationScale - 1.0
+04-09 21:18:41.992 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.002 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-50 identical 5 lines
+04-09 21:18:42.008 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.009  1692  9312 D CompatibilityInfo: mCompatibilityFlags - 10
+04-09 21:18:42.009  1692  9312 D CompatibilityInfo: applicationDensity - 560
+04-09 21:18:42.009  1692  9312 D CompatibilityInfo: applicationScale - 1.0
+04-09 21:18:42.011 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.015 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-50 identical 3 lines
+04-09 21:18:42.016 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.023  4022  4047 I PlayCommon: [29] com.google.android.play.b.h.a(522): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-09 21:18:42.025 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.027 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.030  4022  4047 E PlayCommon: [29] com.google.android.play.b.h.a(552): Failed to connect to server: java.net.UnknownHostException: Unable to resolve host "play.googleapis.com": No address associated with hostname
+04-09 21:18:42.030 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.603 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-50 identical 200 lines
+04-09 21:18:42.603 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.612   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:42.612   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:42.612   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:42.612   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:42.613 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:42.613   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:42.613  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:42.614  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:42.614   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:42.614   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:42.616 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:43.663 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-51 identical 376 lines
+04-09 21:18:43.668 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:43.670   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:43.670   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:43.670   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:43.670   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:43.671   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:43.671 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:43.671  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:43.671  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:43.673   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:43.673 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:43.673   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:43.679 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:44.721 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-52 identical 373 lines
+04-09 21:18:44.721 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:44.727   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:44.727   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:44.727   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:44.727   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:44.728   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:44.728  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:44.728  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:44.729   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:44.729 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:44.729   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:44.732 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:45.782 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-53 identical 365 lines
+04-09 21:18:45.784 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:45.785   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:45.786   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:45.786   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:45.786   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:45.786   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:45.786  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:45.786  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:45.786   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:45.786   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:45.787 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:46.834 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-54 identical 375 lines
+04-09 21:18:46.841 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:46.843   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:46.843   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:46.843   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:46.843   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:46.843   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:46.844  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:46.844  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:46.844   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:46.844   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:46.846 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:47.898 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-55 identical 372 lines
+04-09 21:18:47.901 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:47.902   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:47.902   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:47.902   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:47.902   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:47.902   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:47.903  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:47.903 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:47.903  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:47.903 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:47.904   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:47.904 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:47.904   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:47.913 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:48.957 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-56 identical 366 lines
+04-09 21:18:48.959 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:48.960   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:48.960   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:48.960   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:48.960   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:48.960   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:48.961  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:48.961  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:48.961 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:48.962   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:48.962   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:48.964 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:50.014 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-58 identical 370 lines
+04-09 21:18:50.017 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:50.017   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:50.017   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:50.017   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:50.018   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:50.018   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:50.018  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:50.018  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:50.018   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:50.018   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:50.020 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:51.071 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-59 identical 376 lines
+04-09 21:18:51.073 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:51.076   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:51.076 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:51.076   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:51.076 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:51.076   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:51.076 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:51.076   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:51.076   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:51.077  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:51.077  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:51.078   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:51.078   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:51.083 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:52.133 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-60 identical 376 lines
+04-09 21:18:52.133 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:52.133   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:52.133   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:52.133   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:52.133   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:52.134   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:52.134  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:52.134  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:52.134   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:52.134   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:52.137 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:53.183 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-61 identical 371 lines
+04-09 21:18:53.190 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:53.191   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:53.191   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:53.191   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:53.192   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:53.192   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:53.192  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:53.192  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:53.192   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:53.192   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:53.193 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:54.241 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-62 identical 376 lines
+04-09 21:18:54.248 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:54.250   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:54.250   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:54.250   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:54.250   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:54.251   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:54.251 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:54.251  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:54.252  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:54.252   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:54.252   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:54.254 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:55.308 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-63 identical 379 lines
+04-09 21:18:55.308 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:55.308   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:55.308 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:55.308   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:55.309   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:55.309   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:55.309   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:55.310  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:55.310  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:55.311   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:55.311   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:55.317 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:56.361 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-64 identical 372 lines
+04-09 21:18:56.364 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:56.366   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:56.366   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:56.366 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:56.366   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:56.366   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:56.367   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:56.368  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:56.369  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:56.369 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:56.369   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:56.369 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:56.369   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:56.369 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:57.422 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-65 identical 371 lines
+04-09 21:18:57.423 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:57.424   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:57.424   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:57.424   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:57.424   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:57.424   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:57.425  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:57.425  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:57.425   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:57.425   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:57.431 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:57.620 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-65 identical 70 lines
+04-09 21:18:57.620 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:57.622  2514  2514 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+04-09 21:18:57.622  2695  2695 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+04-09 21:18:57.622  2514  2514 D KeyguardUpdateMonitor: handleBatteryUpdate
+04-09 21:18:57.625 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:57.633 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-65 identical 4 lines
+04-09 21:18:57.633 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:57.637  2514  2514 W SignalClusterView: apply: mImsVisible = false
+04-09 21:18:57.638  2514  2514 I chatty  : uid=1000(system) com.android.systemui identical 2 lines
+04-09 21:18:57.638  2514  2514 W SignalClusterView: apply: mImsVisible = false
+04-09 21:18:57.641 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:58.474 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-66 identical 299 lines
+04-09 21:18:58.483 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:58.483   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:58.483   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:58.483   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:58.483   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:58.484   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:58.484  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:58.484  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:58.485   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:58.485   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:58.485 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:59.536 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-67 identical 378 lines
+04-09 21:18:59.538 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:59.541   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:18:59.541 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:59.541   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:18:59.541   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:18:59.541 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:59.541   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:18:59.541 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:59.541   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:18:59.542  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:18:59.542  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:18:59.542   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:18:59.542   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:18:59.550 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:18:59.989 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-67 identical 155 lines
+04-09 21:18:59.997 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:00.001  2514  2514 D KeyguardUpdateMonitor: received broadcast android.intent.action.TIME_TICK
+04-09 21:19:00.001  2514  2514 D KeyguardUpdateMonitor: handleTimeUpdate
+04-09 21:19:00.002 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:00.596 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-68 identical 210 lines
+04-09 21:19:00.599 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:00.599   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:00.599   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:00.599   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:00.599   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:00.599   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:00.600  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:00.600  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:00.600   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:00.600   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:00.602 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:01.653 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-69 identical 376 lines
+04-09 21:19:01.656 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:01.657   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:01.657   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:01.657   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:01.657   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:01.658   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:01.658  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:01.658   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:01.658  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:01.658   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:01.659 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:02.707 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-70 identical 367 lines
+04-09 21:19:02.707 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:02.716   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:02.716   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:02.716   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:02.716   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:02.717   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:02.717 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:02.717  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:02.718  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:02.718   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:02.718   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:02.721 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:03.770 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-71 identical 371 lines
+04-09 21:19:03.773 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:03.774   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:03.774   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:03.774   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:03.775   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:03.775   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:03.776  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:03.776  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:03.776 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:03.776   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:03.776   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:03.779 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:04.013 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-72 identical 85 lines
+04-09 21:19:04.013 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:04.017 14532 14548 I zygote64: Do partial code cache collection, code=30KB, data=26KB
+04-09 21:19:04.018 14532 14548 I zygote64: After code cache collection, code=30KB, data=26KB
+04-09 21:19:04.018 14532 14548 I zygote64: Increasing code cache capacity to 128KB
+04-09 21:19:04.020 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:04.829 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-72 identical 289 lines
+04-09 21:19:04.832 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:04.834   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:04.834   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:04.834   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:04.834   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:04.834   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:04.835 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:04.835  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:04.835 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:04.835  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:04.836 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:04.836   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:04.836   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:04.845 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:05.888 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-73 identical 376 lines
+04-09 21:19:05.888 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:05.891   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:05.891   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:05.892   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:05.892   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:05.892   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:05.893  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:05.893  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:05.894   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:05.894   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:05.897 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:06.944 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-74 identical 376 lines
+04-09 21:19:06.944 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:06.949   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:06.949   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:06.949   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:06.949   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:06.949   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:06.949  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:06.950  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:06.950   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:06.950   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:06.951 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:07.998 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-76 identical 377 lines
+04-09 21:19:08.006 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:08.007   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:08.008   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:08.008   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:08.008   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:08.008   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:08.009 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:08.009  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:08.009  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:08.009   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:08.010   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:08.011 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:09.062 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-77 identical 377 lines
+04-09 21:19:09.065 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:09.066   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:09.066   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:09.066   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:09.066   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:09.067   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:09.067 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:09.067 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:09.067  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:09.067 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:09.068   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:09.068   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:09.068  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:09.077 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:10.124 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-78 identical 376 lines
+04-09 21:19:10.124 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:10.125   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:10.125   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:10.125   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:10.125   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:10.126   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:10.126  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:10.126  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:10.127   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:10.127   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:10.131 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:11.180 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-79 identical 376 lines
+04-09 21:19:11.180 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:11.182   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:11.183   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:11.183   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:11.183   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:11.183   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:11.184  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:11.184  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:11.184   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:11.184   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:11.186 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:12.231 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-80 identical 377 lines
+04-09 21:19:12.239 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:12.240   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:12.241   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:12.241   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:12.241   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:12.241   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:12.242  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:12.242  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:12.242 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:12.242   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:12.242   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:12.245 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:13.294 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-81 identical 376 lines
+04-09 21:19:13.297 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:13.299   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:13.299   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:13.299   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:13.299   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:13.299   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:13.299  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:13.300  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:13.300   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:13.300   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:13.301 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:14.355 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-82 identical 380 lines
+04-09 21:19:14.355 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:14.357   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:14.358   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:14.358   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:14.358   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:14.358   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:14.359  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:14.360  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:14.360   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:14.360   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:14.364 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:15.409 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-83 identical 376 lines
+04-09 21:19:15.409 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:15.416   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:15.416   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:15.416   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:15.416   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:15.416   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:15.416  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:15.416  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:15.417   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:15.417   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:15.418 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:16.466 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-84 identical 377 lines
+04-09 21:19:16.474 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:16.475   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:16.475   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:16.475   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:16.475   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:16.475   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:16.477  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:16.477  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:16.477   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:16.477 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:16.477   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:16.480 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:17.529 14532 14576 I chatty  : uid=10101(com.sample.moreteapots) Thread-85 identical 376 lines
+04-09 21:19:17.531 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:17.533   832  3570 E NxpTml  : _>>>>> Empty packet recieved !!
+04-09 21:19:17.533 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:17.533   832  3570 D NxpTml  : PN54X - I2C Read successful.....len = 3
+04-09 21:19:17.533   832  3570 D NxpTml  : PN54X - Posting read message.....
+04-09 21:19:17.534   832  3570 D NxpNciR : len =   3 <= 612100
+04-09 21:19:17.536 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:17.536   832  3573 D NxpHal  : read successful status = 0x0
+04-09 21:19:17.536 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:17.537 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices
+04-09 21:19:17.537  3149  3532 I BrcmNfcNfa: NFC received ntf gid:1
+04-09 21:19:17.537  3149  3532 E BrcmNfcNfa: unknown opcode:0x21
+04-09 21:19:17.537   832  3570 D NxpTml  : PN54X - Read requested.....
+04-09 21:19:17.538   832  3570 D NxpTml  : PN54X - Invoking I2C Read.....
+04-09 21:19:17.546 14532 14576 E LeiaNativeSDK: Drawing with VBO vertices

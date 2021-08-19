@@ -1,0 +1,4 @@
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/native_app_glue.dir
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/native-activity.dir
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

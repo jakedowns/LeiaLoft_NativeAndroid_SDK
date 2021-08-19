@@ -1,0 +1,57 @@
+
+{
+	"buildFiles" : [ "L:/desktop/leia/github/JNISample/app/src/main/cpp/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\JNISample\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-activity-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native-activity",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\JNISample\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target native-activity",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot  -Dnative_activity_EXPORTS -IL:\\Android\\ndk-bundle\\sources\\android\\native_app_glue -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\include -isystem L:\\Android\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -Wall -Werror -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "L:/desktop/leia/github/JNISample/app/src/main/cpp/main.cpp",
+					"workingDirectory" : "L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "L:/desktop/leia/github/JNISample/app/build/intermediates/cmake/debug/obj/x86/libnative-activity.so",
+			"toolchain" : "1062305101"
+		},
+		"native_app_glue-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native_app_glue",
+			"buildCommand" : "L:\\Android\\cmake\\3.6.4111459\\bin\\cmake.exe --build L:\\desktop\\leia\\github\\JNISample\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target native_app_glue",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=L:/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=L:/Android/ndk-bundle/sysroot   -isystem L:/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info       -c ",
+					"src" : "L:/Android/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/x86/libnative_app_glue.a",
+			"toolchain" : "1062305101"
+		}
+	},
+	"toolchains" : 
+	{
+		"1062305101" : 
+		{
+			"cCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "L:/Android/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

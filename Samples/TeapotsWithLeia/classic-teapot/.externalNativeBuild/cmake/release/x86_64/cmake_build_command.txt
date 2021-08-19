@@ -1,0 +1,16 @@
+Executable : L:\Android\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HL:\desktop\leia\releases\TeapotsWithLeia\classic-teapot\src\main\cpp
+-BL:\desktop\leia\releases\TeapotsWithLeia\classic-teapot\.externalNativeBuild\cmake\release\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=L:\desktop\leia\releases\TeapotsWithLeia\classic-teapot\build\intermediates\cmake\release\obj\x86_64
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=L:\Android\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=L:\Android\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=L:\Android\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=c++_static
+jvmArgs : 
+

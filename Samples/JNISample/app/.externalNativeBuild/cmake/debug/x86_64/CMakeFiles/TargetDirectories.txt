@@ -1,0 +1,4 @@
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/native_app_glue.dir
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/native-activity.dir
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+L:/desktop/leia/github/JNISample/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

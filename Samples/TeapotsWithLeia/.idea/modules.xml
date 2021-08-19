@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TeapotsWithLeia.iml" filepath="$PROJECT_DIR$/TeapotsWithLeia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classic-teapot/classic-teapot.iml" filepath="$PROJECT_DIR$/classic-teapot/classic-teapot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/more-teapots/more-teapots.iml" filepath="$PROJECT_DIR$/more-teapots/more-teapots.iml" />
+    </modules>
+  </component>
+</project>
